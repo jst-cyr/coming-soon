@@ -37,9 +37,9 @@ h1,
 }
 
 .container .row .left-wrap .left {
-  background-image: url(../img/247.jpg);
+  background-image: url(https://sitecorecdn.azureedge.net/-/media/sitecoresite/images/home/products/xm/_/gettyimages-1226859700_heromedium_dt-final.jpg);
   background-repeat: no-repeat;
-  background-position: 50% 100%;
+  background-position: 70% 50%;
   height: 100vh;
   -webkit-box-align: center;
   -ms-flex-align: center;
@@ -116,7 +116,9 @@ h1,
 }
 
 .container .right .mainInfo h1 {
-  font-size: 2em;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 55px;
   margin-left: 1em;
 }
 
@@ -129,7 +131,7 @@ h1,
 .container .right .mainInfo .slogan {
   width: 50vw;
   margin-top: 1.5em;
-  color: #6d6464;
+  color: #232323;
 }
 
 @media screen and (max-width: 576px) {
