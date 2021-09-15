@@ -61,7 +61,7 @@ h1,
 }
 
 .container .row .left-wrap .left p {
-  font-family: "Muli", sans-serif;
+  font-family: AvenirNextR, Helvetica,Arial,sans-serif;
   font-size: 3.5em;
   margin-right: 2em;
   font-weight: bold;
@@ -227,7 +227,7 @@ h1,
 .slogan,
 button,
 .form {
-  font-family: "Lato", sans-serif;
+  font-family: AvenirNextR,Helvetica,Arial,sans-serif;
 }
 
 .slogan,
