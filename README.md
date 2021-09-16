@@ -1,4 +1,4 @@
-# HTML 5 Responsive Coming Soon Under Construction Template
+# HTML 5 Responsive Coming Soon Under page, branded for Sitecore
 
 ![mockup](https://github.com/jst-cyr/coming-soon/blob/master/mockup.jpg?raw=true "mockup")
 
