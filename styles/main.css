@@ -29,6 +29,12 @@ h1,
   width: auto;
 }
 
+/* Display the logo near the top*/
+img.logo {
+  width: 50%;
+  margin-bottom: 100px;
+}
+
 .container .row .left-wrap {
   padding-right: 0;
   padding-left: 0;
@@ -57,6 +63,10 @@ h1,
     -webkit-box-direction: normal;
     -ms-flex-flow: column wrap;
     flex-flow: column wrap;
+  }
+
+  img.logo {
+    margin-bottom: 0px;
   }
 }
 
